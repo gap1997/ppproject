@@ -1,0 +1,160 @@
+{
+  "seller": [
+    {
+      "name": "zaid shaikh",
+      "email": "zaid@123",
+      "password": "pass@123",
+      "id": 1
+    },
+    {
+      "name": "ajay rathod",
+      "email": "ajay@123",
+      "password": "pass@123",
+      "id": 2
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 3
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 4
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 5
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 6
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 7
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 8
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 9
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 10
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 11
+    },
+    {
+      "name": "ravi",
+      "email": "ravi",
+      " Password": "ravi@123",
+      "id": 12
+    },
+    {
+      "name": "sdfh",
+      "email": "dfsdf",
+      " Password": "sdfh",
+      "id": 13
+    },
+    {
+      "name": "abc",
+      "email": "abc",
+      " Password": "abc@123",
+      "id": 14
+    },
+    {
+      "name": "abc",
+      "email": "abc",
+      " Password": "abc@123",
+      "id": 15
+    },
+    {
+      "name": "abc",
+      "email": "abc",
+      " Password": "abc@123",
+      "id": 16
+    },
+    {
+      "name": "abc",
+      "email": "abc",
+      " Password": "abc@123",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      " Password": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      " Password": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "email": "",
+      " Password": "",
+      "id": 20
+    },
+    {
+      "name": "ZaS",
+      "email": "SADG",
+      " Password": "ASDG",
+      "id": 21
+    },
+    {
+      "name": "",
+      "email": "",
+      " Password": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "",
+      " Password": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      " Password": "",
+      "email": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      " Password": "",
+      "email": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      " Password": "",
+      "email": "",
+      "id": 26
+    }
+  ]
+}
